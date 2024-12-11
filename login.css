@@ -1,0 +1,39 @@
+.loginTitleContainer{
+    font-weight: bolder;   
+    background-color: wheat;
+    padding: 10px;
+    text-align:start;
+   
+    margin: auto;
+    margin-bottom: 20px;
+   }
+   body{
+       background-color: rgb(192, 190, 190);
+       color: black;
+   }
+   .logincontainer{
+       text-align: center;
+       background-color: whitesmoke;
+       color: black;
+       padding: 20px;
+       border: 1px solid slateblue;
+       width: 50%;
+       margin: 50px auto;
+       font-size: x-large;
+       font-weight: bold;
+   
+   }
+
+   .intro{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bolder;
+
+    font-size: xx-large;
+   }
+
+   #login{
+    margin:10px;
+    size: 50px;
+    font-size: x-large;
+   }

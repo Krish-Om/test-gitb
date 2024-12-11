@@ -1,0 +1,26 @@
+.registerTitleContainer{
+ font-weight: bolder;   
+ background-color: wheat;
+ padding: 10px;
+ text-align:center;
+
+ margin: auto;
+ margin-bottom: 20px;
+}
+body{
+    background-color: rgb(56, 54, 54);
+    color: white;
+}
+.registercontainer{
+    text-align: left;
+    background-color: whitesmoke;
+    color: black;
+    padding: 20px;
+    border: 1px solid slateblue;
+    width: 50%;
+    margin: 50px auto;
+    font-size: x-large;
+    font-weight: bold;
+
+}
+
